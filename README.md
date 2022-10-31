@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Pinjari</h1>
-<h3 align="center">A FrontEnd Developer</h3>
+<h3 align="center">A Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/pawan_pinjari" target="blank"><img src="https://img.shields.io/twitter/follow/pawan_pinjari?logo=twitter&style=for-the-badge" alt="pawan_pinjari" /></a> </p>
 
