@@ -1,3 +1,4 @@
+<img src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Pawan Pinjari</h1>
 <h3 align="center">A Web Developer</h3>
 
