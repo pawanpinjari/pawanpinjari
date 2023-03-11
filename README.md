@@ -6,12 +6,12 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **HTML,CSS & Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **pawanpinjari21052000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/pawan_pinjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawan_pinjari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pawan-pinjari-7072b222b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-pinjari-7072b222b" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/pawan.pinjari.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pawan.pinjari.5" height="30" width="40" /></a>
@@ -42,6 +42,11 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -50,16 +55,16 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Jquery-F7DF1E.svg?style=for-the-badge&logo=jquery&logoColor=black"
+      alt="javascript"/> 
   </a>
 </p>
 
