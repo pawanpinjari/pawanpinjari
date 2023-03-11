@@ -107,8 +107,9 @@
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpinjari&show_icons=true&locale=en&layout=compact" alt="pawanpinjari" /></p>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpinjari&show_icons=true&locale=en" alt="pawanpinjari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpinjari&" alt="pawanpinjari" /></p>
+[![](https://github-readme-stats.vercel.app/api?username=pawanpinjari&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pawanpinjari)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=pawanpinjari&theme=material-palenight)](https://github.com/pawanpinjari)
+</div>
