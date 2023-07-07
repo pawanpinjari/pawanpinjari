@@ -4,16 +4,16 @@
 
 <p align="left"> <a href="https://twitter.com/pawan_pinjari" target="blank"><img src="https://img.shields.io/twitter/follow/pawan_pinjari?logo=twitter&style=for-the-badge" alt="pawan_pinjari" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learned **web development** Course
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **pawanpinjari21052000@gmail.com**
+- 📫 How to reach me **pawanpinjari21@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/pawan_pinjari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawan_pinjari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pawan-pinjari-7072b222b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-pinjari-7072b222b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pawan-pinjari-7072b222b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawanpinjari" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/pawan.pinjari.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pawan.pinjari.5" height="30" width="40" /></a>
 <a href="https://instagram.com/pawan_pinjari_96k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_pinjari_96k" height="30" width="40" /></a>
 </p>
